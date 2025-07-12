@@ -17,8 +17,8 @@ export function Header() {
   }, [])
 
   const navItems = [
-    { name: "Work", href: "#portfolio" },
     { name: "About", href: "#about" },
+    { name: "Work", href: "#portfolio" },
     { name: "Services", href: "#services" },
     { name: "Contact", href: "#contact" },
   ]
